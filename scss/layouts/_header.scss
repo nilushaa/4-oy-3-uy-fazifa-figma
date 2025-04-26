@@ -54,13 +54,14 @@
 }
 .sitenav__container {
   display: flex;
-  flex-wrap: wrap;
+flex-wrap: wrap;
   justify-content: space-between;
 }
 .container {
 }
 .sitenav__div {
   width: 624px;
+  
 }
 .sitenav__atm {
   font-family: Poppins;
@@ -81,8 +82,22 @@
   color: #ffffff;
 }
 .sitenav__itemes {
+    display: flex;
+    justify-content: center;
+  
 }
 .sitenav__images {
-  width: 563px;
-  height: 632px;
+    width: 563px;
+    height: 632px;
+    margin-bottom: 32px;
+  
+    
+}
+
+
+.sitenav__list {
+    display: flex;
+    justify-content: space-between;
+}
+.sitenav__item {
 }
