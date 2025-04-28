@@ -1,0 +1,172 @@
+.header__hero {
+    padding-top: 9.6rem;
+    padding-bottom: 9.6rem;
+    background-color: #ffe6d2;
+  }
+  .header__hero__container {
+    display: flex;
+    align-items: center;
+  }
+  .hero__left {
+    margin-right: 25.3rem;
+  }
+  .hero__left__caption {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #232536;
+    margin-bottom: 1.2rem;
+  }
+  .hero__left__title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0px;
+    margin-bottom: 2.4rem;
+    color: #232536;
+  }
+  .hero__left__desc {
+    width: 624px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #232536;
+    opacity: 0.6;
+    margin-bottom: 4rem;
+  }
+  .hero__left__btn {
+    background-image: url(../../images/request-bg.svg);
+    background-repeat: no-repeat;
+    width: 231px;
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    padding-top: 2rem;
+    padding-right: 3.2rem;
+    padding-bottom: 2rem;
+    padding-left: 3.2rem;
+    background-color: #444cfc;
+  
+    span {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      letter-spacing: 0px;
+      color: #fff;
+      opacity: 0.87;
+    }
+  }
+  .hero__right__list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+  }
+  .hero__right__item {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0px;
+  }
+  .hero__right__item:nth-child(2) {
+    .hero__right__item--link {
+      display: flex;
+      align-items: center;
+      gap: 1.6rem;
+    }
+  }
+  .hero__right__item--link {
+    color: #232536;
+  }
+  .proces {
+    padding-top: 9.6rem;
+    padding-bottom: 9.6rem;
+    background-color: #f9f9ff;
+  }
+  
+  .features {
+  }
+  .features__container {
+  }
+  .container {
+  }
+  .features__card--technical,
+  .features__card--aws {
+    width: 624px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 9.6rem;
+  
+    .features__text__contant {
+      margin-right: 14rem;
+    }
+  }
+  .features__card--development {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding-bottom: 9.6rem;
+    background-color: #ecf8f9;
+  
+    .features__card__title {
+      width: 624px;
+    }
+    .features__image {
+      margin-right: 14rem;
+    }
+  }
+  .features__card--consulting {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding-bottom: 9.6rem;
+    background-color: #f9f9ff;
+  
+    .features__card__title {
+      width: 624px;
+    }
+    .features__image {
+      margin-right: 14rem;
+    }
+  }
+  
+  .features__card--technoligy {
+    display: flex;
+    align-items: center;
+    margin-bottom: 9.6rem;
+  
+    .features__text__contant {
+      margin-right: 14rem;
+    }
+  }
+  .features__text__contant {
+  }
+  .features__card__caption {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    margin-bottom: 1.6rem;
+    color: #232536;
+    opacity: 0.87;
+  }
+  .features__card__title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0px;
+    margin-bottom: 2.4rem;
+  }
+  .features__desc {
+    width: 622px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #232536;
+    opacity: 0.6;
+  }
+ 

@@ -1,0 +1,209 @@
+.career__hero {
+}
+.career__hero__container {
+  padding-top: 9.6rem;
+  padding-bottom: 9.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container {
+}
+.career__hero__caption {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 2.4rem;
+  color: #232536;
+  opacity: 0.87;
+}
+.career__hero__title {
+  width: 624px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #232536;
+  margin-bottom: 2.4rem;
+}
+.career__hero__desc {
+  width: 624px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #232536;
+  opacity: 0.87;
+  margin-bottom: 6.4rem;
+}
+.career__hero__log {
+  margin-bottom: 8.06rem;
+}
+.career__hero__text {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: #232536;
+  margin-bottom: 1.6rem;
+}
+.career__hero__sticker {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  letter-spacing: 0px;
+}
+
+.careers__cards {
+  margin-bottom: 9.6rem;
+}
+.careers__cards__container {
+  background-color: #ecf8f9;
+  padding: 78px;
+  display: flex;
+  gap: 3.2rem;
+  flex-wrap: wrap;
+}
+.container {
+}
+.careers__card {
+  width: 354px;
+  height: 243px;
+  padding-top: 48px;
+  padding-right: 48px;
+  padding-bottom: 30px;
+  padding-left: 48px;
+  background-color: #fff;
+}
+.careers__card__title {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: #232536;
+  margin-bottom: 1rem;
+}
+.careers__card__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #232536;
+  opacity: 0.6;
+  margin-bottom: 0.3rem;
+}
+.careers__card__text-sm {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #232536;
+  opacity: 0.6;
+  margin-bottom: 5.2rem;
+}
+.careers__btn {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  span {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #5d5fef;
+  }
+}
+.strelka {
+}
+
+.culture {
+    background-color: #FAFAFC;
+    padding-top: 9.6rem;
+    padding-bottom: 9.6rem;
+}
+.culture__container {
+}
+.culture__top {
+}
+.culture__top__caption {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #000000;
+  opacity: 0.87;
+  margin-bottom: 1.6rem;
+}
+.culture__top__title {
+  width: 624px;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  letter-spacing: 0px;
+  color: #232536;
+  margin-bottom: 2.4rem;
+}
+.culture__desc {
+  width: 622px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #232536;
+  opacity: 0.6;
+  margin-bottom: 6.4rem;
+}
+.culture__cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+}
+.culture__card {
+  width: 418px;
+  padding: 32px;
+  background-color: #fff;
+}
+.covid-19,
+.time,
+.home,
+.annual,
+.money,
+.gym {
+  padding-top: 1rem;
+  padding-right: 1.35rem;
+  padding-bottom: 1rem;
+  padding-left: 1.2rem;
+
+  background-color: #ffd3af80;
+  border-radius: 50%;
+  margin-bottom: 1.8rem;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0px;
+}
+.culture__container__title {
+  margin-top: 1.9rem;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: #232536;
+  margin-bottom: 0.8rem;
+}
+.culture__card__desc {
+  width: 354px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0px;
+  color: #232536;
+  opacity: 0.6;
+}
